@@ -1,21 +1,39 @@
+### Hi there, I'm Gabriel TOUZALIN (TheEmperorPenguin)! 👋
 
-<div style="text-align: center;">
+I'm a student at 42 School, passionate about coding and exploring the beauty of mathematics. I have a strong background in C, C++, Fortran, and Python. I'm particularly fascinated by fractals, especially the mesmerizing Mandelbrot set.
 
-# 💻 Tech Stack:
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"> <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"> <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+- 🔭 I’m currently working on mastering my skills in C, C++, Fortran, and Python.
+- 🌱 I’m currently learning fortran and qiskit.
+- 🎸 In my free time, I enjoy playing the guitar and composing music.
+- 💬 Ask me about anything related to programming, fractals, or music!
+- 📫 You can reach me via email at [gabriel.touzalin19@gmail.com](gabriel.touzalin19@gmail.com).
+- ⚡ Fun fact: I believe in the power of beautifully formatted outputs!
 
-# 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=TheEmperorPenguin&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false"><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheEmperorPenguin&theme=solarized-light&hide_border=false"><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheEmperorPenguin&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+### Languages and Tools:
 
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=TheEmperorPenguin&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### My Projects:
+<!--
+- 🌀 [Mandelbrot Explorer](https://github.com/TheEmperorPenguin/Mandelbrot-Explorer): A Python application to explore and visualize the Mandelbrot set.
+- 📚 [CodeRead](https://github.com/TheEmperorPenguin/CodeRead): A tool to generate beautifully formatted documentation from your code comments.-->
+
+### GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=TheEmperorPenguin&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+### Top Languages:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheEmperorPenguin&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10)
+
+### Let's Connect:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabrieltouzalin/)<!--
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourtwitterhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-yellow?style=for-the-badge)](https://yourportfolio.com)-->
 
 ---
-
-</div>
-<img src="https://visitcount.itsvg.in/api?id=TheEmperorPenguin&icon=5&color=6">
+[![](https://visitcount.itsvg.in/api?id=TheEmperorPenguin&icon=5&color=6)](https://visitcount.itsvg.in)
 
 <!--
 **TheEmperorPenguin/TheEmperorPenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
