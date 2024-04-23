@@ -7,7 +7,6 @@ I'm a student at 42 School, passionate about coding and exploring the beauty of 
 - 🎸 In my free time, I enjoy playing the guitar and composing music.
 - 💬 Ask me about anything related to programming, fractals, or music!
 - 📫 You can reach me via email at [gabriel.touzalin19@gmail.com](gabriel.touzalin19@gmail.com).
-- ⚡ Fun fact: I believe in the power of beautifully formatted outputs!
 
 ### Languages and Tools:
 
