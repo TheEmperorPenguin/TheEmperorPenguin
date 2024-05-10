@@ -32,7 +32,7 @@ I'm a student at 42 School, passionate about coding and exploring the beauty of 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-yellow?style=for-the-badge)](https://yourportfolio.com)-->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TheEmperorPenguin&icon=5&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=TheEmperorPenguin&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!--
 **TheEmperorPenguin/TheEmperorPenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
