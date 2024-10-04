@@ -1,11 +1,6 @@
 ### Hi there, I'm Gabriel TOUZALIN (TheEmperorPenguin)! 👋
 
-I'm a student at 42 School, passionate about coding and exploring the beauty of mathematics. I have a strong background in C, C++, Fortran, and Python. I'm particularly fascinated by fractals, especially the mesmerizing Mandelbrot set.
-
-- 🔭 I’m currently working on mastering my skills in C, C++, Fortran, and Python.
-- 🌱 I’m currently learning fortran and qiskit.
-- 🎸 In my free time, I enjoy playing the guitar and composing music.
-- 💬 Ask me about anything related to programming, fractals, or music!
+I'm a 3D Developper, passionate about coding and exploring the beauty of mathematics. I have a strong background in C, C++. I'm particularly fascinated by fractals, especially the mesmerizing Mandelbrot set.
 - 📫 You can reach me via email at [gabriel.touzalin19@gmail.com](gabriel.touzalin19@gmail.com).
 
 ### Languages and Tools:
