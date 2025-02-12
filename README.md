@@ -12,14 +12,6 @@ I'm a 3D Developper, passionate about coding and exploring the beauty of mathema
 - 🌀 [Mandelbrot Explorer](https://github.com/TheEmperorPenguin/Mandelbrot-Explorer): A Python application to explore and visualize the Mandelbrot set.
 - 📚 [CodeRead](https://github.com/TheEmperorPenguin/CodeRead): A tool to generate beautifully formatted documentation from your code comments.-->
 
-### GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=TheEmperorPenguin&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-### Top Languages:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheEmperorPenguin&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10)
-
 ### Let's Connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabrieltouzalin/)<!--
